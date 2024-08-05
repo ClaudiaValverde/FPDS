@@ -7,10 +7,9 @@ Grades:
   | Name | Grade | Comments |
   |-----|-------|----------|
   | assignemnt 1 | 9.5  | MIMIC dataset, infering time in ICU. individual |
-  | assignment 2 | 9.3  | individual |
+  | assignment 2 | 9.3  | individual |
   | assignment 3 | 9.5  | individual |
   | assignment 4 | 9.5  | journal club paper presentation w/ Alba Garcia |
-  | final test   | 6.88 | The final test consisted of 8 multiple-choice questions of 1.25 points each, discounting wrong answers.
-|
+  | final test   | 6.88 | The final test consisted of 8 multiple-choice questions of 1.25 points each, discounting wrong answers.|
 
 **Final Grade: 8.7**
