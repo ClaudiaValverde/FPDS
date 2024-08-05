@@ -3,8 +3,13 @@ One of the elective courses. It consisted on 15 sessions of Big Data realted les
 Profesor was Dr Rohit Kumar
 
 Individual Grades:
+|----|----|-----|
+|Assignment 1| w/ Florentine Popp | 9 |
+|Assignment 2| individual |  10 |
+|Assignemnt 3| w/ Florentine Popp | 8 |
+
 - Assignment 1 (w/ Florentine Popp): 9
 - Assignment 2 (individual): 10
 - Assignemnt 3 (w/ Florentine Popp): 8
 
-Final Grade: 8.9
+**Final Grade: 8.9**
