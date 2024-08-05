@@ -2,7 +2,8 @@ One of the elective courses. It consisted on 15 sessions of Big Data realted les
 
 Profesor was Dr Rohit Kumar
 
-Individual Grades:
+Grades:
+|Name|Comments|Grades|
 |----|----|-----|
 |Assignment 1| w/ Florentine Popp | 9 |
 |Assignment 2| individual |  10 |
