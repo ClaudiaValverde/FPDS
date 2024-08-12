@@ -12,4 +12,12 @@ The course was gradded by:
 Professor Oriol Pujol
 
 Grades:
+| Name | Grade | Comments |
+  |-------|-------|----------|
+  | Quizes | ?  | End of lecture quizes |
+  | Kaggle Competition | 9  | Identify 'Fake news' from news titles created by an LLM |
+  | Mid-term exam | 8.6  | - |
+  | Final exam | 7.6 | - |
+  | Workshop   | 9.5 | Peer-reviewed article|
 
+**Final Grade: 8.9**
