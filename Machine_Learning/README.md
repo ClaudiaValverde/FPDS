@@ -14,10 +14,10 @@ Professor Oriol Pujol
 Grades:
 | Name | Grade | Comments |
   |-------|-------|----------|
-  | Quizes | ?  | End of lecture quizes |
-  | Kaggle Competition | 9  | Identify 'Fake news' from news titles created by an LLM |
-  | Mid-term exam | 8.6  | - |
-  | Final exam | 7.6 | - |
+  | Quizes | ? | End of lecture quizes |
+  | Kaggle Competition | 9 | Identify 'Fake news' from news titles created by an LLM |
+  | Mid-term exam | 8.6 | Quiz-type exam of the first part of the course |
+  | Final exam | 7.6 | ~10 writen short question-answers exam about the final part of the course |
   | Workshop   | 9.5 | Peer-reviewed article|
 
 **Final Grade: 8.9**
