@@ -1,7 +1,7 @@
 The course was divided by 3 blocks:
-1) Main practical concerns to deploy a ML model
-2) ML theory
-3) ML famlies of models
+1) Main practical concerns to deploy a ML model (introduction, about data, performance measures, ...)
+2) ML theory (overfitting, optimization, regularization, ...)
+3) ML famlies of models (linear models, ensembles, neural networks, unsupervised maniofold learning, dimentionality reduction, mixture models and clustering)
 
 Each teoretical topic consisted of a notebook with theory, examples and exercises. At the end of the topic a small quiz was done.
 
