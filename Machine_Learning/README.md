@@ -3,7 +3,7 @@ The course was divided by 3 blocks:
 2) ML theory
 3) ML famlies of models
 
-Each teoretical topic with a notebook with theory, examples and exercises. At the end of the topic a small quiz was done.
+Each teoretical topic consisted of a notebook with theory, examples and exercises. At the end of the topic a small quiz was done.
 
 The course was gradded by:
 - One Kaggle competition on detecting 'Fake news' created by a LLM (done with @AlbaGarcia)
