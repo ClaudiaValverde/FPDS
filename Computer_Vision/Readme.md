@@ -2,6 +2,9 @@ Elective Subject, done intensively from fabruary to end of march.
 It gave an introduction to the field of CV, such as Image Processing, handcrafted descriptors, learning schemes and more recent DL strategies.
 It consisted on theoretical classes, a couple of deliveries done in pairs, a paper presentation done individually and a small quiz.
 
+Professor:
+Sergio Escalera and Julio Cezar Silveira Jacques-Junior
+
 Grades:
 | Name | Grade | Comments | % |
   |-------|-------|----------|-----|
