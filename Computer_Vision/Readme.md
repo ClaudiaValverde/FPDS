@@ -13,4 +13,4 @@ Grades:
   | Paper presentation | 10 | I presented paper <https://arxiv.org/pdf/2310.12973> | 0.3 |
   | Final exam | 7.2 | ~10 short quizz questions about the whole course | 0.2 |
 
-**Final Grade:** 9.27
+**Final Grade:** 9.3
