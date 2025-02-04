@@ -1,0 +1,23 @@
+--------- Least Square Problem on datafile dades.csv (full-rank) ---------
+Examples of the SVD solution for full-rank:
+Solution norm for degree 1: 22.17796357960087
+Error: 220.0229379040868
+
+
+Solution norm for degree 2: 17.927310296878595
+Error: 37.1145797311177
+
+
+Solution norm for degree 3: 1.6543964762623322
+Error: 10.880828401852195
+
+
+Solution norm for degree 10: 270.6376788020444
+Error: 10.844327143377427
+
+
+--------- Least Square Problem on datafile dades_regressio.csv (rank deficient) ---------
+Solution norm for rank defficient: 4774736.291321675
+Error: 1.149597895935293
+
+
