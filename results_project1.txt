@@ -1,0 +1,662 @@
+------------------------------------------------------------
+------------------------ RESULTS C2 ------------------------
+------------------------------------------------------------
+With n= 10
+Execution time: 0.012152910232543945 seconds
+Iterations needed: 17
+Difference from the real minimum: 3.356129
+Condition problem: 3.356129
+Condition num: 22.64531543603266
+
+------------------------------------------------------------
+------------------------ RESULTS C3 ------------------------
+------------------------------------------------------------
+Dimension n = 10:
+Execution time: 0.0095 seconds
+Iterations needed: 18
+Difference from the real minimum: 5.693022
+Condition problem: 5.693022
+Condition number: 23.300590
+--------------------------------------------- 
+
+Dimension n = 30:
+Execution time: 0.0532 seconds
+Iterations needed: 18
+Difference from the real minimum: 13.579378
+Condition problem: 13.579378
+Condition number: 23.391767
+--------------------------------------------- 
+
+Dimension n = 50:
+Execution time: 0.0547 seconds
+Iterations needed: 18
+Difference from the real minimum: 18.736786
+Condition problem: 18.736786
+Condition number: 24.694641
+--------------------------------------------- 
+
+Dimension n = 70:
+Execution time: 0.1295 seconds
+Iterations needed: 20
+Difference from the real minimum: 33.518188
+Condition problem: 33.518188
+Condition number: 24.384718
+--------------------------------------------- 
+
+Dimension n = 90:
+Execution time: 0.2207 seconds
+Iterations needed: 19
+Difference from the real minimum: 48.031915
+Condition problem: 48.031915
+Condition number: 27.167120
+--------------------------------------------- 
+
+Dimension n = 110:
+Execution time: 0.3827 seconds
+Iterations needed: 18
+Difference from the real minimum: 41.093615
+Condition problem: 41.093615
+Condition number: 25.933124
+--------------------------------------------- 
+
+Dimension n = 130:
+Execution time: 0.4839 seconds
+Iterations needed: 18
+Difference from the real minimum: 76.235712
+Condition problem: 76.235712
+Condition number: 25.608225
+--------------------------------------------- 
+
+Dimension n = 150:
+Execution time: 0.7029 seconds
+Iterations needed: 19
+Difference from the real minimum: 73.595591
+Condition problem: 73.595591
+Condition number: 24.847665
+--------------------------------------------- 
+
+Dimension n = 170:
+Execution time: 0.9304 seconds
+Iterations needed: 19
+Difference from the real minimum: 78.703665
+Condition problem: 78.703665
+Condition number: 24.756559
+--------------------------------------------- 
+
+Dimension n = 190:
+Execution time: 1.3527 seconds
+Iterations needed: 20
+Difference from the real minimum: 89.830572
+Condition problem: 89.830572
+Condition number: 24.510761
+--------------------------------------------- 
+
+Dimension n = 210:
+Execution time: 2.4685 seconds
+Iterations needed: 19
+Difference from the real minimum: 112.823034
+Condition problem: 112.823034
+Condition number: 25.244001
+--------------------------------------------- 
+
+Dimension n = 230:
+Execution time: 2.3578 seconds
+Iterations needed: 19
+Difference from the real minimum: 110.468824
+Condition problem: 110.468824
+Condition number: 24.637749
+--------------------------------------------- 
+
+Dimension n = 250:
+Execution time: 3.0550 seconds
+Iterations needed: 19
+Difference from the real minimum: 131.116095
+Condition problem: 131.116095
+Condition number: 25.836659
+--------------------------------------------- 
+
+Dimension n = 270:
+Execution time: 3.9032 seconds
+Iterations needed: 19
+Difference from the real minimum: 129.405159
+Condition problem: 129.405159
+Condition number: 25.725888
+--------------------------------------------- 
+
+Dimension n = 290:
+Execution time: 4.7701 seconds
+Iterations needed: 19
+Difference from the real minimum: 138.784344
+Condition problem: 138.784344
+Condition number: 25.489691
+--------------------------------------------- 
+
+Dimension n = 310:
+Execution time: 5.6209 seconds
+Iterations needed: 18
+Difference from the real minimum: 146.414974
+Condition problem: 146.414974
+Condition number: 25.670246
+--------------------------------------------- 
+
+Dimension n = 330:
+Execution time: 6.8316 seconds
+Iterations needed: 19
+Difference from the real minimum: 163.423931
+Condition problem: 163.423931
+Condition number: 27.316801
+--------------------------------------------- 
+
+Dimension n = 350:
+Execution time: 8.3252 seconds
+Iterations needed: 19
+Difference from the real minimum: 179.901245
+Condition problem: 179.901245
+Condition number: 25.433081
+--------------------------------------------- 
+
+Dimension n = 370:
+Execution time: 12.1304 seconds
+Iterations needed: 19
+Difference from the real minimum: 207.454957
+Condition problem: 207.454957
+Condition number: 25.310114
+--------------------------------------------- 
+
+Dimension n = 390:
+Execution time: 15.0897 seconds
+Iterations needed: 19
+Difference from the real minimum: 192.484047
+Condition problem: 192.484047
+Condition number: 25.936782
+--------------------------------------------- 
+
+Dimension n = 410:
+Execution time: 23.5240 seconds
+Iterations needed: 19
+Difference from the real minimum: 203.133522
+Condition problem: 203.133522
+Condition number: 25.465988
+--------------------------------------------- 
+
+Dimension n = 430:
+Execution time: 22.1251 seconds
+Iterations needed: 19
+Difference from the real minimum: 200.278015
+Condition problem: 200.278015
+Condition number: 25.803823
+--------------------------------------------- 
+
+Dimension n = 450:
+Execution time: 24.3185 seconds
+Iterations needed: 19
+Difference from the real minimum: 228.776491
+Condition problem: 228.776491
+Condition number: 25.676226
+--------------------------------------------- 
+
+Dimension n = 470:
+Execution time: 21.6000 seconds
+Iterations needed: 19
+Difference from the real minimum: 219.720738
+Condition problem: 219.720738
+Condition number: 25.118174
+--------------------------------------------- 
+
+Dimension n = 490:
+Execution time: 26.2981 seconds
+Iterations needed: 19
+Difference from the real minimum: 273.101959
+Condition problem: 273.101959
+Condition number: 25.647024
+--------------------------------------------- 
+
+------------------------------------------------------------
+------------------------ RESULTS C4 ------------------------
+------------------------------------------------------------
+STRATEGY 1: 
+
+Dimension n = 10:
+Execution time: 0.0158 seconds
+Iterations needed: 15
+Difference from the real minimum: 2.613693
+Condition problem: 2.613693
+Condition number: 6742043183263841.000000
+--------------------------------------------- 
+
+Dimension n = 30:
+Execution time: 0.0479 seconds
+Iterations needed: 17
+Difference from the real minimum: 8.969214
+Condition problem: 8.969214
+Condition number: 547668954201107271254016.000000
+--------------------------------------------- 
+
+Dimension n = 50:
+Execution time: 0.0754 seconds
+Iterations needed: 20
+Difference from the real minimum: 19.811786
+Condition problem: 19.811786
+Condition number: 127157528170311237632.000000
+--------------------------------------------- 
+
+Dimension n = 70:
+Execution time: 0.1108 seconds
+Iterations needed: 19
+Difference from the real minimum: 42.127865
+Condition problem: 42.127865
+Condition number: 183713890148628594688.000000
+--------------------------------------------- 
+
+Dimension n = 90:
+Execution time: 0.1851 seconds
+Iterations needed: 19
+Difference from the real minimum: 48.363169
+Condition problem: 48.363169
+Condition number: 214195799466709811200.000000
+--------------------------------------------- 
+
+Dimension n = 110:
+Execution time: 0.2598 seconds
+Iterations needed: 19
+Difference from the real minimum: 58.617124
+Condition problem: 58.617124
+Condition number: 9610013432295792640.000000
+--------------------------------------------- 
+
+Dimension n = 130:
+Execution time: 0.3915 seconds
+Iterations needed: 19
+Difference from the real minimum: 67.943373
+Condition problem: 67.943373
+Condition number: 234049432230570655744.000000
+--------------------------------------------- 
+
+Dimension n = 150:
+Execution time: 0.5623 seconds
+Iterations needed: 19
+Difference from the real minimum: 91.701096
+Condition problem: 91.701096
+Condition number: 3674982421012070912.000000
+--------------------------------------------- 
+
+Dimension n = 170:
+Execution time: 0.7139 seconds
+Iterations needed: 19
+Difference from the real minimum: 92.367783
+Condition problem: 92.367783
+Condition number: 15938161920407799808.000000
+--------------------------------------------- 
+
+Dimension n = 190:
+Execution time: 0.9024 seconds
+Iterations needed: 19
+Difference from the real minimum: 109.075620
+Condition problem: 109.075620
+Condition number: 27537050571159339008.000000
+--------------------------------------------- 
+
+Dimension n = 210:
+Execution time: 1.1064 seconds
+Iterations needed: 18
+Difference from the real minimum: 111.882842
+Condition problem: 111.882842
+Condition number: 743183726009424256.000000
+--------------------------------------------- 
+
+Dimension n = 230:
+Execution time: 1.3667 seconds
+Iterations needed: 19
+Difference from the real minimum: 133.203169
+Condition problem: 133.203169
+Condition number: 1969131317584603392.000000
+--------------------------------------------- 
+
+Dimension n = 250:
+Execution time: 1.7146 seconds
+Iterations needed: 19
+Difference from the real minimum: 123.156995
+Condition problem: 123.156995
+Condition number: 2267059500192336445440.000000
+--------------------------------------------- 
+
+Dimension n = 270:
+Execution time: 2.2986 seconds
+Iterations needed: 19
+Difference from the real minimum: 153.191982
+Condition problem: 153.191982
+Condition number: 7253927326598857728.000000
+--------------------------------------------- 
+
+Dimension n = 290:
+Execution time: 2.8416 seconds
+Iterations needed: 19
+Difference from the real minimum: 162.173364
+Condition problem: 162.173364
+Condition number: 72633358597801926656.000000
+--------------------------------------------- 
+
+Dimension n = 310:
+Execution time: 4.7857 seconds
+Iterations needed: 19
+Difference from the real minimum: 151.227378
+Condition problem: 151.227378
+Condition number: 272631985811034308608.000000
+--------------------------------------------- 
+
+Dimension n = 330:
+Execution time: 4.4805 seconds
+Iterations needed: 20
+Difference from the real minimum: 142.113049
+Condition problem: 142.113049
+Condition number: 1771606540261603934208.000000
+--------------------------------------------- 
+
+Dimension n = 350:
+Execution time: 4.5765 seconds
+Iterations needed: 19
+Difference from the real minimum: 159.594438
+Condition problem: 159.594438
+Condition number: 7186147486967590912.000000
+--------------------------------------------- 
+
+Dimension n = 370:
+Execution time: 8.7276 seconds
+Iterations needed: 19
+Difference from the real minimum: 174.364478
+Condition problem: 174.364478
+Condition number: 20326094405780422656.000000
+--------------------------------------------- 
+
+Dimension n = 390:
+Execution time: 7.5462 seconds
+Iterations needed: 19
+Difference from the real minimum: 188.254699
+Condition problem: 188.254699
+Condition number: 14011443514936610816.000000
+--------------------------------------------- 
+
+Dimension n = 410:
+Execution time: 9.8415 seconds
+Iterations needed: 19
+Difference from the real minimum: 187.282740
+Condition problem: 187.282740
+Condition number: 4598593877247266304.000000
+--------------------------------------------- 
+
+Dimension n = 430:
+Execution time: 8.3566 seconds
+Iterations needed: 19
+Difference from the real minimum: 201.312459
+Condition problem: 201.312459
+Condition number: 23041500298001342464.000000
+--------------------------------------------- 
+
+Dimension n = 450:
+Execution time: 7.6010 seconds
+Iterations needed: 19
+Difference from the real minimum: 223.139364
+Condition problem: 223.139364
+Condition number: 44506793072500973568.000000
+--------------------------------------------- 
+
+Dimension n = 470:
+Execution time: 8.9950 seconds
+Iterations needed: 19
+Difference from the real minimum: 252.363258
+Condition problem: 252.363258
+Condition number: 50694754959885238272.000000
+--------------------------------------------- 
+
+Dimension n = 490:
+Execution time: 11.8668 seconds
+Iterations needed: 19
+Difference from the real minimum: 223.274754
+Condition problem: 223.274754
+Condition number: 11798664602790070272.000000
+--------------------------------------------- 
+
+STRATEGY 2: 
+
+Dimension n = 10:
+Execution time: 0.0088 seconds
+Iterations needed: 17
+Difference from the real minimum: 3.475693
+Condition problem: 3.475693
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 30:
+Execution time: 0.0116 seconds
+Iterations needed: 17
+Difference from the real minimum: 8.381658
+Condition problem: 8.381658
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 50:
+Execution time: 0.0257 seconds
+Iterations needed: 18
+Difference from the real minimum: 25.381229
+Condition problem: 25.381229
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 70:
+Execution time: 0.0572 seconds
+Iterations needed: 20
+Difference from the real minimum: 32.695481
+Condition problem: 32.695481
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 90:
+Execution time: 0.0694 seconds
+Iterations needed: 19
+Difference from the real minimum: 47.850706
+Condition problem: 47.850706
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 110:
+Execution time: 0.1010 seconds
+Iterations needed: 19
+Difference from the real minimum: 56.551102
+Condition problem: 56.551102
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 130:
+Execution time: 0.2086 seconds
+Iterations needed: 19
+Difference from the real minimum: 70.791236
+Condition problem: 70.791236
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 150:
+Execution time: 0.2481 seconds
+Iterations needed: 19
+Difference from the real minimum: 74.745168
+Condition problem: 74.745168
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 170:
+Execution time: 0.3490 seconds
+Iterations needed: 19
+Difference from the real minimum: 95.006056
+Condition problem: 95.006056
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 190:
+Execution time: 0.3854 seconds
+Iterations needed: 19
+Difference from the real minimum: 83.110226
+Condition problem: 83.110226
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 210:
+Execution time: 0.9454 seconds
+Iterations needed: 18
+Difference from the real minimum: 126.330286
+Condition problem: 126.330286
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 230:
+Execution time: 0.8770 seconds
+Iterations needed: 19
+Difference from the real minimum: 132.176506
+Condition problem: 132.176506
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 250:
+Execution time: 0.8884 seconds
+Iterations needed: 19
+Difference from the real minimum: 127.345046
+Condition problem: 127.345046
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 270:
+Execution time: 1.0416 seconds
+Iterations needed: 19
+Difference from the real minimum: 126.900451
+Condition problem: 126.900451
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 290:
+Execution time: 1.2794 seconds
+Iterations needed: 19
+Difference from the real minimum: 164.301833
+Condition problem: 164.301833
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 310:
+Execution time: 1.5648 seconds
+Iterations needed: 19
+Difference from the real minimum: 133.414396
+Condition problem: 133.414396
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 330:
+Execution time: 1.9224 seconds
+Iterations needed: 19
+Difference from the real minimum: 177.374910
+Condition problem: 177.374910
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 350:
+Execution time: 2.5412 seconds
+Iterations needed: 19
+Difference from the real minimum: 188.396648
+Condition problem: 188.396648
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 370:
+Execution time: 4.4111 seconds
+Iterations needed: 19
+Difference from the real minimum: 185.292191
+Condition problem: 185.292191
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 390:
+Execution time: 3.8865 seconds
+Iterations needed: 19
+Difference from the real minimum: 196.871283
+Condition problem: 196.871283
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 410:
+Execution time: 4.1702 seconds
+Iterations needed: 19
+Difference from the real minimum: 202.779602
+Condition problem: 202.779602
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 430:
+Execution time: 7.8523 seconds
+Iterations needed: 19
+Difference from the real minimum: 201.189795
+Condition problem: 201.189795
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 450:
+Execution time: 6.2705 seconds
+Iterations needed: 19
+Difference from the real minimum: 245.553816
+Condition problem: 245.553816
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 470:
+Execution time: 4.9789 seconds
+Iterations needed: 19
+Difference from the real minimum: 229.150129
+Condition problem: 229.150129
+Condition number: 1.000000
+--------------------------------------------- 
+
+Dimension n = 490:
+Execution time: 6.8522 seconds
+Iterations needed: 19
+Difference from the real minimum: 241.896350
+Condition problem: 241.896350
+Condition number: 1.000000
+--------------------------------------------- 
+
+------------------------------------------------------------
+------------------------ RESULTS C5 ------------------------
+------------------------------------------------------------
+OPTPR 1: 
+
+With n= 100
+Execution time: 0.5337748527526855 seconds
+Iterations needed: 26
+Difference from the real minimum: 11590.718119
+Condition problem: -0.000000
+Condition num: 5.369513811600705e+18
+
+OPTPR 2: 
+
+With n= 1000
+Execution time: 348.80196714401245 seconds
+Iterations needed: 29
+Difference from the real minimum: 1087511.567322
+Condition problem: -0.000000
+Condition num: 1.4542908102515628e+18
+
+------------------------------------------------------------
+------------------------ RESULTS C6 ------------------------
+------------------------------------------------------------
+OPTPR 1: 
+
+With n= 100
+Execution time: 0.44382286071777344 seconds
+Iterations needed: 39
+Difference from the real minimum: 11590.718119
+Condition problem: -0.000000
+Condition num: 1.2250633060283022e+24
+
+OPTPR 2: 
+
+With n= 1000
+Execution time: 52.754765033721924 seconds
+Iterations needed: 29
+Difference from the real minimum: 1087511.567322
+Condition problem: -0.000000
+Condition num: 9.295638170464076e+24
+
