@@ -1,3 +1,5 @@
+# Machine Learning
+
 The course was divided by 3 blocks:
 1) Main practical concerns to deploy a ML model (introduction, about data, performance measures, ...)
 2) ML theory (overfitting, optimization, regularization, ...)
